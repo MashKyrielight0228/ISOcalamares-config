@@ -126,7 +126,7 @@ strings:
     version:             2025.3.1
     shortVersion:        2025.3
     versionedName:       Bridge Linux 2025.3 "AUOS123"
-    shortVersionedName:  Bridge 2023.3
+    shortVersionedName:  Bridge 2025.3
     bootloaderEntryName: Bridge Linux
     productUrl:          https://calamares.io/
     supportUrl:          https://github.com/calamares/calamares/wiki
