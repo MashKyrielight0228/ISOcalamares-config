@@ -1,1 +1,1 @@
-# ISOcalamares-config
+# bridge-calamares-config
