@@ -129,10 +129,10 @@ strings:
     shortVersionedName:  Bridge 2025.3
     bootloaderEntryName: Bridge Linux
     productUrl:          https://calamares.io/
-    supportUrl:          https://github.com/calamares/calamares/wiki
-    knownIssuesUrl:      https://github.com/calamares/calamares/issues
-    releaseNotesUrl:     https://calamares.io/news/
-    donateUrl:           https://kde.org/community/donations/index.php
+#    supportUrl:          https://github.com/calamares/calamares/wiki
+#    knownIssuesUrl:      https://github.com/calamares/calamares/issues
+#    releaseNotesUrl:     https://calamares.io/news/
+#    donateUrl:           https://kde.org/community/donations/index.php
 
 # These images are loaded from the branding module directory.
 #
